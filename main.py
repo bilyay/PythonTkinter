@@ -1,2 +1,2 @@
-print("")
+print("Hi")
 input("lklk")
